@@ -5,3 +5,4 @@ How to deploy dumbflix-frontend :
 
 Test CICD
 - Update CICD
+- Test
